@@ -1,0 +1,62 @@
+body {
+    background-image:url('../images/brown2.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron h1{
+    background-color: transparent;
+    color: #693825;
+    font-size: 48px;
+    font-family: 'Arvo', cursive;
+    text-transform: uppercase;
+    line-height: .7;
+    font-weight: bold;
+}
+
+.jumbotron h2 {
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 32px;
+    color: #693825;
+    line-height: .7;
+}
+
+.jumbotron h3 {
+    font-family: 'Arvo', cursive;
+    font-size: 24px;
+    color: #693825;
+    line-height: 1.5;
+}
+
+.jumbotron{
+    background-color: transparent;
+    color: #693825;
+}
+
+.jumbotron p{
+    background-color: transparent;
+    font-family: 'Arvo', cursive;
+    font-size: 18px;
+}
+
+#currentWord, #correctWord {
+    font-family: 'Arvo', cursive;
+    font-size: 18px;
+    color: #693825;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#word {
+    font-family: 'Arvo', cursive;
+    font-size: 18px;
+    color: #693825;
+    text-transform: uppercase;
+}
+
+#guessRemaining, #guessLetter{
+    font-family: 'Arvo', cursive;
+    font-size: 18px;
+    color: #693825;
+}
